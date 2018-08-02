@@ -1,0 +1,1 @@
+# Türkşe Kelime Veritabanı
